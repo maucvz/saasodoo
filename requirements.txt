@@ -47,6 +47,6 @@ XlsxWriter==1.1.2
 xlwt==1.3.*
 xlrd==1.1.0
 pypiwin32 ; sys_platform == 'win32'
-docker==5.0.0
+docker==4.1.0
 erppeek==1.7.1
-paramiko==2.7.2
+paramiko==2.6.0
